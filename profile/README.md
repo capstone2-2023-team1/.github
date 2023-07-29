@@ -39,6 +39,5 @@ https://github.com/capstone2-2023-team1/.github/assets/49807140/1c96c32b-9676-4b
 **Google Cloud**  
 
 ## 👥  Collaboration
-**GitHub**
-**Notion**
-**Kakao Talk**
+**GitHub**  
+**Notion**  
